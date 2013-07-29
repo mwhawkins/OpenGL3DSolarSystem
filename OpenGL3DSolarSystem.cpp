@@ -1,6 +1,6 @@
 /**
 * Michael Hawkins
-* CMSC 405 Project
+* CMSC 405
 * A 3-D lighted, animated Solar System
 * with a menu to control aspets of the simulation
 **/
