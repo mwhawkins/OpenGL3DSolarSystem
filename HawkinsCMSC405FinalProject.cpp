@@ -3,7 +3,6 @@
 * UMUC CMSC 405 Final Project
 * A 3-D lighted, animated Solar System
 * with a menu to control aspets of the simulation
-* July 20, 2013
 **/
 #include <stdlib.h> 
 #include <GL/glut.h>
