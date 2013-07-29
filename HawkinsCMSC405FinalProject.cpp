@@ -1,6 +1,6 @@
 /**
 * Michael Hawkins
-* UMUC CMSC 405 Final Project
+* CMSC 405 Project
 * A 3-D lighted, animated Solar System
 * with a menu to control aspets of the simulation
 **/
